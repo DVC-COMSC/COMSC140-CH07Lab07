@@ -6,7 +6,7 @@ for i in range(len(numbers1)):
 # The following line is the same as the for-loop
 # numbers1 = list(map(int, numbers))
 
-print ("The original list: ", numbers1)
+# print ("The original list: ", numbers1)
 
 # ******************************
 # Make your Code
